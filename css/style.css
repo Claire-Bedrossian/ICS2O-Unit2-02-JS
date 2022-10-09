@@ -1,6 +1,6 @@
 /* Created by: Claire Bedrossian
-* Created on: XXX
-* This CSS file defines the style for index.html ICS2O-XXX-CSS
+* Created on: Oct 2022
+* This CSS file defines the style for index.html ICS2O-Unit2-02-JS
 */
 
 .mdl-layout__header-row {
@@ -23,11 +23,4 @@
 
 body {
   background-color: #fff;
-}
-
-p {
-  color: white;
-  font-family: Helvetica, Arial, sans-serif;
-  font-size: 1.5rem;
-  padding-top: 5pt;
 }
